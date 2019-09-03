@@ -1,7 +1,5 @@
 # Code of Conduct
 
-> Local chapters should fork this document and modify to meet the needs of their communities.
-
 All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
 
 Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
@@ -15,8 +13,8 @@ Need help?
 
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **Organizer name** [org@email.com](mailto:org@email.com)
+- **Edoardo Vacchi** [GitHub](https://github.com/evacchi) | [Twitter](https://twitter.com/evacchi) | [email](mailto:evacchi@live.com)
+- **Daniele Zonca** [GitHub](https://github.com/danielezonca)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
