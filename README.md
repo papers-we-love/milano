@@ -19,7 +19,7 @@ The main language is Italian, but we welcome English talks!
 
 ---
 
-Siamo il primo capitolo italiano di Papers We Love!
+Siamo **il primo capitolo italiano** di Papers We Love!
 
 **Unisciti** a una nuova community di sviluppatori, scienziati e lettori-di-paper che amano le scienze informatiche e vogliono parlarne!
 
@@ -36,7 +36,10 @@ Il linguaggio principale è l'italiano, ma anche i talk in inglese sono benvenut
 
 ### Upcoming Meetings 
 
-Find out at [paperswelovemi.eventbrite.it](http://paperswelovemi.eventbrite.it/)
+- **Follow us** on Twitter [@paperswelovemi](https://twitter.com/paperswelovemi)
+- Reserve a seat at Eventbrite [paperswelovemi.eventbrite.it](http://paperswelovemi.eventbrite.it/)
+
+
 
 ### Contact
 
