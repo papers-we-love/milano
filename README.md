@@ -1,5 +1,7 @@
 # Papers We ❤️ Milano
 
+[![Join the chat at https://gitter.im/papers-we-love/milano](https://badges.gitter.im/papers-we-love/milano.svg)](https://gitter.im/papers-we-love/milano?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the repository for the Milano chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/milano/blob/master/code-of-conduct.md).
 
 ### Information
